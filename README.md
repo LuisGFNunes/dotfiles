@@ -4,16 +4,15 @@ Bem-vindo ao meu repositório pessoal de dotfiles! Aqui você encontra o backup 
 
 ## 🖥️ Meu Setup
 
-* **Sistema Operacional:** Arch Linux (CachyOS)
+* **Sistema Operacional:** Arch Linux
 * **Compositor (Wayland):** [Niri](https://github.com/YaLTeR/niri)
-* **Ambiente/Tema:** Noctalia
+* **Ambiente/Tema:** [iNiR](https://github.com/snowarch/iNiR)
 
 ## 📂 Estrutura Modular
 
 Este repositório está organizado de forma modular para facilitar a manutenção e a aplicação das configurações:
 
 * 📁 **`niri/`**: Contém todas as configurações exclusivas do compositor Niri (atalhos de teclado, regras de layout, animações e comportamentos de janelas).
-* 📁 **`noctalia/`**: Abriga a estrutura base, scripts ou configurações temáticas referentes ao ambiente Noctalia.
 
 ## 🚀 Instalação e Uso
 
@@ -28,4 +27,3 @@ cd ~/.dotfiles
 
 # Copie os diretórios para a sua pasta de configurações
 cp -r niri ~/.config/
-cp -r noctalia ~/.config/
