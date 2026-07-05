@@ -21,7 +21,7 @@ Para aplicar estas configurações na sua máquina, você pode clonar este repos
 
 ```bash
 # Clone este repositório
-git clone [https://github.com/LuisGFNunes/dotfiles.git](https://github.com/LuisGFNunes/dotfiles.git) ~/.dotfiles
+git clone https://github.com/LuisGFNunes/dotfiles.git ~/.dotfiles
 
 # Entre no diretório
 cd ~/.dotfiles
