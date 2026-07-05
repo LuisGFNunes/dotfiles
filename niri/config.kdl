@@ -7,13 +7,5 @@ include "./cfg/layout.kdl"
 include "./cfg/rules.kdl"
 include "./cfg/misc.kdl"
 
-include "./noctalia_custom.kdl"
+include "./noctalia.kdl"
 
-output "HDMI-A-2" {
-    mode "1920x1080@74.973"
-
-    scale 1.0
-
-    transform "normal"
-    position x=0 y=0
-}
