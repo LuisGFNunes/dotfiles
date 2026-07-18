@@ -4,7 +4,7 @@ Bem-vindo ao meu repositório pessoal de dotfiles! Aqui você encontra o backup 
 
 ## 🖥️ Meu Setup
 
-* **Sistema Operacional:** EndeavourOS (Arch-based)
+* **Sistema Operacional:** CachyOS (Arch-based)
 * **Compositor (Wayland):** [Niri](https://github.com/YaLTeR/niri)
 * **Ambiente/Tema:** [iNiR](https://github.com/snowarch/iNiR)
 
