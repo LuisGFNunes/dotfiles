@@ -22,9 +22,10 @@ Este repositório está organizado de forma modular para facilitar a manutençã
 
 * 📁 **`niri/`**: Contém todas as configurações exclusivas do compositor Niri (atalhos de teclado, regras de layout, animações e comportamentos de janelas).
 
-## 🚀 Setup e Uso (apenas para mim)
+## 🚀 Setup e Uso
 
 Para aplicar estas configurações na sua máquina, você pode clonar este repositório e criar links simbólicos (symlinks) para a pasta `~/.config`, ou simplesmente copiar os arquivos.
+Obs.: alguns paths estão configurados como meu user: "hikari"
 
 ```bash
 # Clone este repositório
