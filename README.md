@@ -25,7 +25,7 @@ Este repositório está organizado de forma modular para facilitar a manutençã
 ## 🚀 Setup e Uso
 
 Para aplicar estas configurações na sua máquina, você pode clonar este repositório e criar links simbólicos (symlinks) para a pasta `~/.config`, ou simplesmente copiar os arquivos.
-Obs.: alguns paths estão configurados como meu user: "hikari"
+Obs.: alguns paths podem estar configurados como meu user: "hikari"
 
 ```bash
 # Clone este repositório
