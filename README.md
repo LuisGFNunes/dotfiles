@@ -5,6 +5,7 @@ Bem-vindo ao meu repositório pessoal de dotfiles! Aqui você encontra o backup 
 ```bash
 sudo dnf5 install niri
 sudo dnf5 install --nogpgcheck --repofrompath 'terra,https://repos.fyralabs.com/terra$releasever' terra-release
+sudo dnf install noctalia-shell
 ```
 
 ## 🖥️ Meu Setup
