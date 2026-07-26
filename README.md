@@ -2,11 +2,16 @@
 
 Bem-vindo ao meu repositório pessoal de dotfiles! Aqui você encontra o backup e a organização da minha configuração de sistema, focada em produtividade e minimalismo.
 
+```bash
+sudo dnf5 install niri
+sudo dnf5 install --nogpgcheck --repofrompath 'terra,https://repos.fyralabs.com/terra$releasever' terra-release
+```
+
 ## 🖥️ Meu Setup
 
-* **Sistema Operacional:** CachyOS (Arch-based)
+* **Sistema Operacional:** Fedora Linux 44 (Workstation Edition)
 * **Compositor (Wayland):** [Niri](https://github.com/YaLTeR/niri)
-* **Ambiente/Tema:** [iNiR](https://github.com/snowarch/iNiR)
+* **Ambiente/Tema:** [Noctalia](https://github.com/noctalia-dev/noctalia)
 
 ## 📂 Estrutura Modular
 
@@ -27,3 +32,4 @@ cd ~/.dotfiles
 
 # Copie os diretórios para a sua pasta de configurações
 cp -r niri ~/.config/
+cp -r noctalia ~/.config/
