@@ -6,4 +6,5 @@
 output "HDMI-A-2" {
     mode "1920x1080@74.973" // Set resolution and refresh rate
     scale 1 // No scaling (use 2 for HiDPI)
+    variable-refresh-rate
 }
