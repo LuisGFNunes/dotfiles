@@ -11,9 +11,7 @@ Bem-vindo ao meu repositório pessoal de dotfiles! Aqui você encontra o backup 
 ## ⚙️ Instalação do WM e Shell
 ```bash
 sudo dnf5 install niri
-# Ativa repositorio Terra e Instala o Noctalia-Shell do Terra
-sudo dnf5 install --nogpgcheck --repofrompath 'terra,https://repos.fyralabs.com/terra$releasever' terra-release 
-sudo dnf5 install noctalia-shell
+sudo dnf5 install noctalia # utiliza a v5 do repositorio oficial
 ```
 
 ## 📂 Estrutura Modular
