@@ -35,3 +35,4 @@ cd ~/.dotfiles
 # Copie os diretórios para a sua pasta de configurações
 cp -r niri ~/.config/
 cp -r noctalia ~/.config/
+cp -r alacritty ~/.config/
